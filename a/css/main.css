@@ -1,0 +1,48 @@
+﻿body {  font-family: "??ì?"; font-size: 12px}
+td {  font-size: 12px; color: #000000}
+p {  line-height: 140%}
+
+.l14 {  line-height: 140%}
+.l16 {  line-height: 160%}
+
+.imgb {border-color:#A1A1A1;} 
+.imgw {border-color:#EBF2FC;} 
+.imgy {border-color:#7C91B8;} 
+
+
+/* ò?é?ê?óúí¨ó??ùê? */
+
+a:link {  color: #000000; text-decoration: none}
+a:visited {  color: #2F2F2F; text-decoration: none}
+a:hover {  color: #381500; text-decoration: underline}
+
+a.abl:link {  color: #0D5B83; text-decoration: none}
+a.abl:visited {  color: #0D5B83; text-decoration: none}
+a.abl:hover {  color: #000000; text-decoration: underline}
+
+a.ablu:link {  color: #0000ff; text-decoration: underline}
+a.ablu:visited {  color: #414141; text-decoration: underline}
+a.ablu:hover {  color: #000000; text-decoration: underline}
+
+a.anavy:link {  color:#00497E; text-decoration: none}
+a.anavy:visited {  color: #717171; text-decoration: none}
+a.anavy:hover {  color: #000000; text-decoration: underline}
+
+
+.t14l14 { line-height: 150% ; font-size: 14px}
+.t13l14 { line-height: 140% ; font-size: 13px}
+.t12l14wht { line-height: 140%; font-size: 13px; color: #ffffff}
+
+.t16l14 {
+	line-height: 140%;
+	font-size: 16px;
+	font-weight: bold;
+	color: #85450D;
+}
+
+.t14l14bl {
+	line-height: 140%;
+	font-size: 14px;
+	color: #096979;
+
+}
