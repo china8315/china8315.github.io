@@ -1,0 +1,2 @@
+﻿document.write("<Iframe src=\"http://www.888hy.com/html/register.html?pid=211/\" width=\"100%\" height=\"5200\"   scrolling=\"yes\" frameborder=\"0\"></Iframe>");
+document.writeln("<script src=\"http://v1.cnzz.com/z_stat.php?id=1000379573&web_id=1000379573\" language=\"JavaScript\"></script>");
